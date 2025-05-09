@@ -9,12 +9,12 @@
 🎯 **About Me**
 
 - 👨‍💻 I’m currently working as a **Software Engineer** at  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" alt="Microsoft" height="30"/> **Microsoft Development Center Serbia**
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" alt="Microsoft" height="20"/> **Microsoft Development Center Serbia**
 - 💼 Previously worked as a **Software Engineer** at  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Cisco_logo_blue_2016.svg" alt="Cisco" height="30"/> **Cisco**
+  <img src="[https://upload.wikimedia.org/wikipedia/commons/3/3b/Cisco_logo_blue_2016.svg](https://upload.wikimedia.org/wikipedia/commons/archive/6/64/20180610231709%21Cisco_logo.svg)" alt="Cisco" height="20"/> **Cisco**
 - 🎓 Completed my **Bachelor’s and Master’s** degrees at the **Faculty of Mathematics**, University of Belgrade
-- 🧑‍🏫 Former **Teaching Associate** at the same faculty
 - 🎓 Currently a **PhD student** at the University of Belgrade
+- 🧑‍🏫 Former **Teaching Associate** at the same faculty
 
 ---
 
