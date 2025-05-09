@@ -1,7 +1,5 @@
 <h1 align="center">Hi there 👋</h1>
 
-🎯 **About Me**
-
 I'm a Software Engineer passionate about building impactful systems, with a strong academic background and work experience across industry-leading tech companies and academia.
 
 ---
