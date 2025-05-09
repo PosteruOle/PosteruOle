@@ -5,23 +5,24 @@ I'm a Software Engineer passionate about building impactful systems, with a stro
 ---
 💼 **Working experience**
 
-- <img src="assets/Microsoft_logo.svg" alt="Microsoft" height="20"/>  **Software Engineer** at **Microsoft**
+
+- <img src="assets/Microsoft_logo.svg" alt="Microsoft" height="20"/> &nbsp; **Software Engineer** at **Microsoft**
   - *Full-time, On-site — Belgrade*
   - *April 2025 – Present*
   - Member of the **Azure Compute Node Service** team.
-- <img src="assets/Cisco_logo.svg" alt="Cisco" height="20"/> **Software Engineer** at **Cisco**
+- <img src="assets/Cisco_logo.svg" alt="Cisco" height="20"/> &nbsp; **Software Engineer** at **Cisco**
   - *Full-time, On-site — Belgrade*
   - *May 2024 – March 2025*
   - Part of the **System Integration Platform** team.   
-- <img src="assets/syrmia-logo.png" alt="SYRMIA" height="20"/> **Software Engineer** at **SYRMIA**
+- <img src="assets/syrmia-logo.png" alt="SYRMIA" height="15"/> **Software Engineer** at **SYRMIA**
   - *Full-time, On-site — Belgrade*
   - *April 2023 – April 2024*
   - Part of the **System Software** team.
-- <img src="assets/FIS_logo.svg" alt="FIS" height="20"/> **Software Engineer Intern** at **FIS**
+- <img src="assets/FIS_logo.svg" alt="FIS" height="15"/> &nbsp; **Software Engineer Intern** at **FIS**
   - *Full-time, On-site — Belgrade*
   - *November 2022 – January 2023*
   - Part of the **Plum** team (C# team).
-- <img src="assets/org_matf.png" alt="MATF" height="20"/>**Teaching Associate** at the **Faculty of Mathematics, University of Belgrade**
+- <img src="assets/org_matf.png" alt="MATF" height="20"/> &nbsp; **Teaching Associate** at the **Faculty of Mathematics, University of Belgrade**
   - *Part-time, On-site — Belgrade*
   - *October 2022 – September 2024*
   - Department of Computer Science and Informatics. 
