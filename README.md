@@ -6,22 +6,59 @@
 
 ---
 
-🎯 **Working experience**
+🎯 **About Me**
 
-- 👨‍💻 I’m currently working as a **Software Engineer** at  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" alt="Microsoft" height="20"/> **Microsoft Development Center Serbia**
-- 💼 Previously worked as a **Software Engineer** at  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Cisco_logo.svg" alt="Cisco" height="20"/> **Cisco**
-- 🎓 Completed my **Bachelor’s and Master’s** degrees at the **Faculty of Mathematics**, University of Belgrade
-- 🎓 Currently a **PhD student** at the University of Belgrade
-- 🧑‍🏫 Former **Teaching Associate** at the same faculty
+I'm a Software Engineer passionate about building impactful systems, with a strong academic background and work experience across industry-leading tech companies and academia.
 
+---
+💼 **Working experience**
+
+- <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" alt="Microsoft" height="20"/> **Software Engineer** at **Microsoft Development Center Serbia**
+  - 🏢 *Full-time, On-site — Belgrade*
+  - 📅 *April 2025 – Present*
+  - Member of the Azure Compute Node Service team.
+- <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Cisco_logo.svg" alt="Cisco" height="20"/> **Software Engineer** at **Cisco**
+  - 🏢 *Full-time, On-site — Belgrade*
+  - 📅 *May 2024 – March 2025*
+  - Part of the System Integration Platform team.   
+- **Software Engineer** at **Syrmia**
+  - 🏢 *Full-time, On-site — Belgrade*
+  - 📅 *April 2023 – April 2024*
+  - Part of the System Software team.
+- **Software Engineer Intern** at **Fis**
+  - 🏢 *Full-time, On-site — Belgrade*
+  - 📅 *November 2022 – January 2023*
+  - Part of the Plum team (C# team).
+- **Teaching Associate** at the **Faculty of Mathematics, University of Belgrade**
+  - 🏢 *Full-time, On-site — Belgrade*
+  - 📅 *October 2022 – September 2024*
+  - Department of Computer Science and Informatics. 
+
+---
+
+🎓 **Education**
+
+- **PhD Student** of Informatics at the **Faculty of Mathematics, University of Belgrade**
+  - *October 2024 – Present*
+  - Grade: 10.0/10.0
+  - Some of chosen majors: Advanced Topics in Computer Networks, Advanced Topics in Compiler Construction, Advanced Topics In Software Verification, Machine Learning in Computer Vision. 
+- **Master’s Degree** in Informatics at the **Faculty of Mathematics, University of Belgrade**
+  - *October 2022 – September 2024*
+  - Grade: 9.71/10.0
+  - Master thesis title: **Automatic detection and optimization of the CRC algorithm within the LLVM compiler infrastructure**
+  - Some of chosen majors: Software Verification, Software Development 2, Scientific Computing, Machine Learning, Cryptography. 
+- **Bachelor’s Degree** in Computer Science at the **Faculty of Mathematics, University of Belgrade**
+  - *October 2018 – September 2022*
+  - Grade: 9.25/10.0
+  - Some of mandatory majors: Operating Systems, Computer Architecture, Database Programming, Computer Networks.
+
+ 
 ---
 
 📫 **How to reach me**
 
-- [LinkedIn]([https://www.linkedin.com/in/petar-tesic/](https://www.linkedin.com/in/petar-te%C5%A1i%C4%87-11b667220/)) *(update this link if needed)*
-- [Email](mailto:posteru.ole@gmail.com) *(optional)*
+- [LinkedIn](https://www.linkedin.com/in/petar-te%C5%A1i%C4%87-11b667220/)
+- [Email](mailto:posteru.ole@gmail.com)
 
 ---
 
