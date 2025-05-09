@@ -6,24 +6,24 @@ I'm a Software Engineer passionate about building impactful systems, with a stro
 💼 **Working experience**
 
 - <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" alt="Microsoft" height="20"/> **Software Engineer** at **Microsoft Development Center Serbia**
-  - 🏢 *Full-time, On-site — Belgrade*
-  - 📅 *April 2025 – Present*
-  - Member of the Azure Compute Node Service team.
+  - *Full-time, On-site — Belgrade*
+  - *April 2025 – Present*
+  - Member of the **Azure Compute Node Service** team.
 - <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Cisco_logo.svg" alt="Cisco" height="20"/> **Software Engineer** at **Cisco**
-  - 🏢 *Full-time, On-site — Belgrade*
-  - 📅 *May 2024 – March 2025*
-  - Part of the System Integration Platform team.   
+  - *Full-time, On-site — Belgrade*
+  - *May 2024 – March 2025*
+  - Part of the **System Integration Platform** team.   
 - **Software Engineer** at **Syrmia**
-  - 🏢 *Full-time, On-site — Belgrade*
-  - 📅 *April 2023 – April 2024*
-  - Part of the System Software team.
-- **Software Engineer Intern** at **Fis**
-  - 🏢 *Full-time, On-site — Belgrade*
-  - 📅 *November 2022 – January 2023*
-  - Part of the Plum team (C# team).
+  - *Full-time, On-site — Belgrade*
+  - *April 2023 – April 2024*
+  - Part of the **System Software** team.
+- <img src="https://en.wikipedia.org/wiki/FIS_%28company%29#/media/File:FIS_logo.svg" alt="FIS" height="20"/> **Software Engineer Intern** at **FIS**
+  - *Full-time, On-site — Belgrade*
+  - *November 2022 – January 2023*
+  - Part of the **Plum** team (C# team).
 - **Teaching Associate** at the **Faculty of Mathematics, University of Belgrade**
-  - 🏢 *Full-time, On-site — Belgrade*
-  - 📅 *October 2022 – September 2024*
+  - *Part-time, On-site — Belgrade*
+  - *October 2022 – September 2024*
   - Department of Computer Science and Informatics. 
 
 ---
