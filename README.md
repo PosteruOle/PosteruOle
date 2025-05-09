@@ -1,10 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Petar Tesic</h1>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PosteruOle&label=Profile%20views&color=0e75b6&style=flat" alt="PosteruOle" />
-</p>
-
----
+<h1 align="center">Hi there 👋</h1>
 
 🎯 **About Me**
 
@@ -77,4 +71,8 @@ I'm a Software Engineer passionate about building impactful systems, with a stro
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PosteruOle&show_icons=true&theme=radical" alt="PosteruOle stats" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=PosteruOle&label=Profile%20views&color=0e75b6&style=flat" alt="PosteruOle" />
 </p>
