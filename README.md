@@ -6,12 +6,12 @@
 
 ---
 
-🎯 **About Me**
+🎯 **Working experience**
 
 - 👨‍💻 I’m currently working as a **Software Engineer** at  
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" alt="Microsoft" height="20"/> **Microsoft Development Center Serbia**
 - 💼 Previously worked as a **Software Engineer** at  
-  <img src="[https://upload.wikimedia.org/wikipedia/commons/3/3b/Cisco_logo_blue_2016.svg](https://upload.wikimedia.org/wikipedia/commons/archive/6/64/20180610231709%21Cisco_logo.svg)" alt="Cisco" height="20"/> **Cisco**
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Cisco_logo.svg" alt="Cisco" height="20"/> **Cisco**
 - 🎓 Completed my **Bachelor’s and Master’s** degrees at the **Faculty of Mathematics**, University of Belgrade
 - 🎓 Currently a **PhD student** at the University of Belgrade
 - 🧑‍🏫 Former **Teaching Associate** at the same faculty
@@ -20,8 +20,8 @@
 
 📫 **How to reach me**
 
-- [LinkedIn](https://www.linkedin.com/in/petar-tesic/) *(update this link if needed)*
-- [Email](mailto:your.email@example.com) *(optional)*
+- [LinkedIn]([https://www.linkedin.com/in/petar-tesic/](https://www.linkedin.com/in/petar-te%C5%A1i%C4%87-11b667220/)) *(update this link if needed)*
+- [Email](mailto:posteru.ole@gmail.com) *(optional)*
 
 ---
 
